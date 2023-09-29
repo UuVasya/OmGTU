@@ -3,8 +3,7 @@
 //#include "TestLessen.cpp"
 
 ///void foo(int* a, int* b);
-
-int foo2(int& a, int& b, int& c);
+//int foo2(int& a, int& b, int& c);
 
 //void foo3() {};
 

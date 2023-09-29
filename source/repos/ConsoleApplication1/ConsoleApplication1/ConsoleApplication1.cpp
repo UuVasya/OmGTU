@@ -1,11 +1,24 @@
 // ConsoleApplication1.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
-
+#pragma once
 #include <iostream>
-#include "TestLessen.h"
+
+#include <string>
+
+int main() {
+
+	
+	std::string a;
+	std::getline(cin, a);
+	std::cout << a;
 
 
 
+	return 0;
+}
+//#include "TestLessen.h"
+
+/*
 class Animal
 {
 public:
@@ -60,5 +73,34 @@ int main()
 
 
 }
+*/
+/*
+
+int foo(int a, int b)
+	{
+		int c = a;
+		a = b;
+		b = c;
+		return a, b;
+
+	}
+
+void main() 
+{
+	
+	int a = 0xFF;
+	int b = 9;
+	
+
+	
+
+	std::cout << a<< b <<foo(a, b)<<std::endl;
 
 
+
+
+
+
+
+
+}*/

@@ -3,15 +3,19 @@
 #include <iostream>
 #include <ctime>
 
-
 /*
-void foo(int* a, int* b)
+
+void foo(int a, int b)
 {
-	int c = *a;
-	*a = *b;
-	*b = c;
+	int c = a;
+	a = b;
+	b = c;
 }
-*/
+
+
+
+
+
 int foo2(int& a, int& b, int& c)
 {
 	a += 20;
@@ -19,7 +23,7 @@ int foo2(int& a, int& b, int& c)
 	c *= 5;
 	std::cout << a<< b<<c << std::endl;
 	return a + b + c;
-}
+}*/
 //
 //void foo3(int &a, int &b)
 //{
