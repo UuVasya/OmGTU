@@ -43,7 +43,7 @@ void main()
 
 	for (int i = 0; i < SizeMass; i++)// Первое Задание
 	{
-		if((Mass[i] % 3) == (Mass[i] % 5)|| (Mass[i] % 5) == (Mass[i] % 7))
+		if(((Mass[i] % 3) == (Mass[i] % 5)) && ((Mass[i] % 5) == (Mass[i] % 7)))
 		{
 			ScaleOfNorm++;
 		}
