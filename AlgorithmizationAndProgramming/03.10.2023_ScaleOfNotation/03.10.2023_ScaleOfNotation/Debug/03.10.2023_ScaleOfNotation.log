@@ -1,0 +1,3 @@
+﻿  Main.cpp
+C:\OmGTU\AlgorithmizationAndProgramming\03.10.2023_ScaleOfNotation\03.10.2023_ScaleOfNotation\Main.cpp(20,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  03.10.2023_ScaleOfNotation.vcxproj -> C:\OmGTU\AlgorithmizationAndProgramming\03.10.2023_ScaleOfNotation\Debug\03.10.2023_ScaleOfNotation.exe
