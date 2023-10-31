@@ -47,7 +47,7 @@ int main()
 
 	foo(x, a, b, c, w);
 
-	std::cout << w;
+	std::cout <<"w = " << w;
 
 
 
