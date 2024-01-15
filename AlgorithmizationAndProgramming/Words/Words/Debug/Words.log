@@ -1,0 +1,3 @@
+﻿  Main.cpp
+C:\OmGTU\AlgorithmizationAndProgramming\Words\Words\Main.cpp(16,20): warning C4018: '<': signed/unsigned mismatch
+  Words.vcxproj -> C:\OmGTU\AlgorithmizationAndProgramming\Words\Debug\Words.exe
